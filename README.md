@@ -66,3 +66,42 @@ You only need a modern web browser to open the `index.html` file. No server or c
 * Check the console output area (if implemented) for any JavaScript logs or errors.
 
 ---
+## 🔮 Future Enhancements
+
+* **Syntax Highlighting:** Integrate a robust library like CodeMirror or Monaco Editor for a better coding experience.
+* **Local Storage Persistence:** Save user's code locally so it's not lost on refresh.
+* **Pre-processor Support:** Add options for SCSS/Sass, Less, or Babel.
+* **External Library Imports:** Allow users to include external CSS/JS libraries (e.g., Bootstrap, jQuery).
+* **Keyboard Shortcuts:** Implement shortcuts for common actions (e.g., run code, save).
+* **Full Screen Mode:** Toggle individual editor panes or the output to full screen.
+* **File Upload/Download:** Ability to upload existing files or download the current code.
+* **Theming:** Dark mode/light mode toggles.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
+
+1.  Fork the repository.
+2.  Create your feature branch (`git checkout -b feature/AmazingFeature`).
+3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4.  Push to the branch (`git push origin feature/AmazingFeature`).
+5.  Open a Pull Request.
+
+---
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+## ✍️ Author
+
+* **[amar / amar-01]** - [Your GitHub Profile Link](https://github.com/amar-01)
+* [Your LinkedIn Profile ](https://www.linkedin.com/in/amara-narayan-548740186/)
+  
+
+---
+
